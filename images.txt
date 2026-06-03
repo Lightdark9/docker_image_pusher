@@ -4,3 +4,6 @@ ankane/pgvector:v0.5.0
 dpage/pgadmin4:9.1.0
 mysql:8.0.32
 phpmyadmin:5.2.1
+elasticsearch:7.17.28
+logstash:7.17.28
+kibana:7.17.28
