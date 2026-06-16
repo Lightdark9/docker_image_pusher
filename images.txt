@@ -7,3 +7,4 @@ phpmyadmin:5.2.1
 elasticsearch:7.17.28
 logstash:7.17.28
 kibana:7.17.28
+rabbitmq:3.12.9
