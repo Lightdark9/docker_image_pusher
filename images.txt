@@ -10,6 +10,6 @@ kibana:7.17.28
 rabbitmq:3.12.9
 prom/prometheus:v3.12.0
 grafana/grafana:10.2.0
-grafana/mcp-grafanap:latest
+grafana/mcp-grafana:latest
 grafana/node-exporter:v1.9.1
 
